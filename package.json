@@ -4,7 +4,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/dhinesh20022806/react-project",
+  "homepage": "https://dhinesh20022806.github.io/react-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
